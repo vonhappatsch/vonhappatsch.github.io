@@ -33,6 +33,10 @@ p {
 	font-weight: light;
 }
 
+p:a {
+	color: black;
+}
+
 #tunes {
 	margin-top: 75px;
 }
