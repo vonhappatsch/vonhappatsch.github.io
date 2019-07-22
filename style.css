@@ -30,17 +30,20 @@ p {
 	margin-left: 60px;
 	font-family: Calibri;
 	font-size: 20px;
-	font-weight: light;
 }
 
 a {
-	color: black;
+	color: #1c1b1b;
 	text-decoration: none;
 }
 
 a:hover {
-	color: black;
+	color: #1c1b1b;
 	text-decoration: none;
+}
+
+a:active {
+	color: #1c1b1b;
 }
 
 #tunes {
