@@ -46,6 +46,10 @@ a:active {
 	color: #1c1b1b;
 }
 
+a:visited {
+	color: #1c1b1b;
+}
+
 #tunes {
 	margin-top: 75px;
 }
